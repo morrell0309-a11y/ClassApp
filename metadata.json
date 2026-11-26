@@ -1,0 +1,6 @@
+{
+  "name": "課堂點名與分組台",
+  "description": "專為教師設計的課堂名單管理、動畫音效隨機點名與視覺化自動分組工具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
